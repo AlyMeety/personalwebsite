@@ -1,12 +1,13 @@
 var slideList = [
     "assets/1.jpg",
-    "assets/2.png",
-    "assets/a.png",
-    "assets/b.png",
-    "assets/c.png",
-    "assets/d.png",
-    "assets/e.png",
-    "assets/f.png",
+    "assets/home.png",
+    "assets/321clean.png",
+    "assets/drift.png",
+    "assets/astroon.png",
+    "assets/gifttower.png",
+    "assets/symbinode.png",
+    "assets/ghosthunt.png",
+    "assets/hamburger.png",
     "assets/doc.png",
 ]
 

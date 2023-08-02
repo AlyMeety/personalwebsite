@@ -87,3 +87,8 @@
     position: absolute;
     right: 30px;
 }
+
+
+video {
+    object-fit: fill;
+}
