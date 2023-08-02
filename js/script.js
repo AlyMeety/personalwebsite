@@ -8,7 +8,7 @@ var slideList = [
     "assets/symbinode.png",
     "assets/ghosthunt.png",
     "assets/hamburger.png",
-    "assets/doc.png",
+    "assets/doc.png"
 ]
 
 
